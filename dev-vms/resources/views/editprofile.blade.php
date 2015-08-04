@@ -1,3 +1,6 @@
+@extends('app')
+
+@section('content')
 <html>
     <head>
         <title>VMS edit profile</title>
@@ -59,3 +62,4 @@
         
     </body>
 </html>
+@endsection
